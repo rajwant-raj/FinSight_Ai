@@ -1,0 +1,35 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+ENV/
+
+# Python Bytecode / Caches
+**/__pycache__/
+*.py[cod]
+*$py.class
+
+# Local Data, Exports, and Saved Models
+# (This ignores all files in these folders except the .gitkeep files,
+# so the folder structure is maintained on GitHub without tracking actual files)
+data/*
+!data/.gitkeep
+
+models/*
+!models/.gitkeep
+
+exports/*
+!exports/.gitkeep
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# OS Files
+.DS_Store
+Thumbs.db
