@@ -214,15 +214,14 @@ FinSight-AI/
 
 ## 📸 Screenshots
 
-*Note: Save your screenshots in the `images/` directory with the exact filenames below to display them here.*
 
 | Dashboard Overview | Historical Analysis |
 |:-:|:-:|
 | ![Dashboard Overview](images/dashboard_overview.png) | ![Historical Analysis](images/historical_analysis.png) |
 
-| Technical Indicators | ML Prediction |
-|:-:|:-:|
-| ![Technical Indicators](images/technical_indicators.png) | ![ML Prediction](images/ml_prediction.png) |
+| Technical Indicators |
+|:-:|
+| ![Technical Indicators](images/technical_indicators.png) |
 
 | Market Insights |
 |:-:|
@@ -270,9 +269,9 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 **Rajwant-Raj**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- GitHub: [@rajwant-raj](https://github.com/rajwant-raj)
+- LinkedIn: [rajwant-raj](https://linkedin.com/in/rajwant-raj)
+
 
 ---
 
