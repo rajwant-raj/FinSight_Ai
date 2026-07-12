@@ -265,6 +265,16 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ---
 
+
+## Internship Project
+
+This project was developed as part of my **Artificial Intelligence Internship at Codec Technologies**.
+
+The objective was to apply AI, machine learning, and data visualization techniques to build a financial market analytics dashboard capable of providing insights and next-day stock price predictions.
+
+
+---
+
 ## 👤 Author
 
 **Rajwant-Raj**
